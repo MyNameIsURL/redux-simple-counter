@@ -1,0 +1,15 @@
+.btn {
+  padding: 10px 15px;
+  background: #555;
+  color: white;
+  border-radius: 5px;
+  margin: 1em;
+  border: none;
+  outline: none;
+}
+
+.count {
+  font-size: 2em;
+  font-weight: 800;
+  color: #555;
+}
